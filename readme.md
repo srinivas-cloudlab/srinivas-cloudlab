@@ -19,9 +19,6 @@ Early on, I found myself far more interested in:
 - and what makes infrastructure **resilient, observable, and secure**
 
 That curiosity pulled me deep into **Cloud and DevOps Engineering**.  
-Over time, I began building entire systems — from **provisioning infrastructure** to **automating deployments**, enforcing **security baselines**, and ensuring **high availability** across environments.
-
-One of my most rewarding moments was connecting **frontend, backend, and databases seamlessly** — locally and insuring on **Azure Web Apps** — watching complex systems behave as one. I genuinely enjoy that feeling.
 
 Today, I work at the intersection of **automation, reliability, and intelligence**, with a growing interest in **AIOps** — making systems not just automated, but *aware*.
 
