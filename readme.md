@@ -1,4 +1,4 @@
-<p align="center"># 🌩️ Systems, Stories, and Everything in Between</p>
+<p align="center">## 🌩️ Systems, Stories, and Everything in Between</p>
 
 <h3 align="center"><em>Not Just What I Built, But What Built Me</em></h3>
 
@@ -6,7 +6,7 @@
 
 ---
 
-## ⌨️ Ctrl + Me
+## ⌨️ Ctrl + Me - > “I build systems that work — and stories that stay.”
 
 - **Name** — Srinivas Nagaraja  
 - **Education** — MS in Information Technology, University of Cincinnati  
@@ -102,8 +102,7 @@ I’m increasingly drawn toward:
 - Self-healing systems  
 - Data-driven operational decisions  
 
-I want systems that don’t just run —  
-I want systems that **understand themselves**.
+I want systems that don’t just run —  I want systems that **understand themselves**.
 
 ---
 
@@ -192,4 +191,4 @@ I want systems that **understand themselves**.
 </p>
 
 ---
-> “I build systems that work — and stories that stay.”
+
