@@ -1,38 +1,131 @@
-<h1 align="center">Hi, I'm Srinivas</h1>
-<h3 align="center">Cloud Engineer | DevOps & Release Engineering | Platform Engineer | SRE | HPC </h3>
+# 🌩️ Systems, Stories, and Everything in Between
 
-<p align="center">
-  <em>
-    I build cloud systems that scale quietly, deploy reliably, and recover intelligently.
-  </em>
-</p>
+<h3 align="center"><em>Not Just What I Built, But What Built Me</em></h3>
+
+<p align="center"># The Story of an Engineer Who Listened to His Systems</p>
 
 ---
 
-## 🌱 My Story (Why Cloud & DevOps)
+## ⌨️ Ctrl + Me
 
-Never would I have imagined that a simple curiosity about how things deploy *behind the scenes* would grow into a deep passion for **cloud infrastructure and automation**.
-
-Early on, I found myself far more interested in:
-- how systems **scale under load**
-- how **pipelines orchestrate releases**
-- and what makes infrastructure **resilient, observable, and secure**
-
-That curiosity pulled me deep into **Cloud and DevOps Engineering**.  
-
-Today, I work at the intersection of **automation, reliability, and intelligence**, with a growing interest in **AIOps** — making systems not just automated, but *aware*.
+- **Name** — Srinivas Nagaraja  
+- **Education** — MS in Information Technology, University of Cincinnati  
+- **Current Company** — Software Engineer, DevOps Intern — KLA  
+- **Experience** — 4+ YOE  
 
 ---
 
-## 🧠 What I Do (In Practice)
+## 🧠 System.Understanding(Srinivas)
 
-- Design **Infrastructure as Code** that is repeatable, secure, and scalable  
-- Build **CI/CD pipelines** that teams trust during releases  
-- Automate cloud operations to reduce toil and cost  
-- Engineer **observability-first platforms**  
-- Apply **SRE principles** to real-world systems  
+- I believe systems should feel **alive** — not just functional  
+- I'm here not just to build what works — I'm here to build what **lasts**  
+- Every dashboard I've built carries a small story  
 
 ---
+
+## 🛣️ The Road So Far — From First Login to Last Commit
+
+- Tata Consultancy Services — Systems Engineer (Cloud Admin & DevSecOps)  
+- Cisco Systems — Technical Consulting Engineer (Site Reliability Engineer)  
+- University of Cincinnati — Digital Technology Solutions  
+- KLA Corporation — Software Engineer, DevOps Intern  
+
+---
+
+## 🏗️ The Architecture That Built Me
+
+### ☁️ Cloud Platforms — The Sky I Architect In
+
+- **AWS** taught me to build fast — To think ahead.  
+- **Azure** taught me to build right, not just big.  
+- **vSphere** taught me to stay grounded — cloud still runs on metal.  
+- I design systems that breathe — elastic, secure, and cost-aware.
+
+---
+
+### 🔁 CI/CD Pipelines — My Poetry in Motion
+
+- **Jenkins** taught me how to make things work *(Fixing was learning)*  
+- **Azure DevOps** taught me how to make them work well — and stay that way *(Designing was prevention)*  
+- When a build fails, I don’t panic — I listen. Failures talk if you’re patient.  
+- Pipelines fail like people: when they’re misunderstood.
+
+---
+
+### 🧱 Infrastructure as Code — Automation That Thinks
+
+- **Terraform** gave me freedom — one language for every cloud.  
+- **CloudFormation** taught me to respect boundaries.  
+- For me, IaC is storytelling in syntax — every line describing order in chaos.  
+- I don't spin servers — I declare them.
+
+---
+
+### 📊 Monitoring & Observability — The Pulse Beneath Everything
+
+- Every system speaks — I make sure I can hear it.  
+- **Prometheus** taught me to ask the right questions, not chasing every metric.  
+- **Grafana** taught me numbers mean nothing until you make them speak.  
+- **Zabbix** taught me to configure, **CloudWatch** to care, and **Splunk** to understand.  
+- When something fails silently, my dashboards shout first.
+
+---
+
+### 🐳 Containerization & Configuration Management — Build with Care
+
+- Containers keep it light, configuration keeps it right.  
+- **Docker** taught me simplicity.  
+- **Puppet** taught me consistency — it’s not about deploying once, it’s about staying right every time.  
+- **Kubernetes** isn’t about running containers, it’s about teaching them how to live together.
+
+---
+
+## 🧪 What I’ve Built (Quietly, Consistently)
+
+- Automated VM provisioning on VMware vSphere using Jenkins, Terraform, and Packer — reducing provisioning time by 70%  
+- Built golden image pipelines embedding security baselines  
+- Enforced CIS compliance using Puppet Enterprise  
+- Migrated hybrid .NET applications to Azure Web Apps  
+- Designed reliable CI/CD pipelines teams trust during releases  
+- Implemented observability stacks that detect issues before users do  
+- Delivered $500K+/year in cloud cost optimization  
+
+---
+
+## 🤖 What I’m Exploring Now
+
+Automation is powerful.  
+But intelligent automation is the future.
+
+I’m increasingly drawn toward:
+- AIOps  
+- Predictive monitoring  
+- Self-healing systems  
+- Data-driven operational decisions  
+
+I want systems that don’t just run —  
+I want systems that **understand themselves**.
+
+---
+
+## ➕ Me++
+
+- I’ll stop here — after all, even the best scripts need an `exit 0`.  
+- **More about me?** Let’s save that for the post-deployment review.
+
+---
+
+<p align="center"><strong>“I don’t just build systems — I design experiences for the people who use them.”</strong></p>
+
+<p align="center"><em>It’s not confidential, but I’m confident.</em></p>
+
+---
+
+### 🔗 Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/srinivas-n-76077b170
+
+---
+
 
 ## 🛠️ Core Technologies & Tools
 
@@ -97,17 +190,6 @@ Today, I work at the intersection of **automation, reliability, and intelligence
 
 ---
 
-## 🤖 Where I’m Headed
-
-Beyond automation, I’m deeply interested in **AIOps** —  
-systems that can **observe, predict, and self-heal**.
-
-I’m driven to explore the future of:
-- intelligent cloud platforms  
-- resilient distributed systems  
-
----
-
 ## 📫 Let’s Connect
 
 <p>
@@ -117,5 +199,4 @@ I’m driven to explore the future of:
 </p>
 
 ---
-
-⭐ *Curious by nature. Engineer by discipline. Builder by instinct.*
+> “I build systems that work — and stories that stay.”
