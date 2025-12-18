@@ -3,15 +3,6 @@
 <h3 align="center"><em>Not Just What I Built, But What Built Me</em></h3>
 
 <p align="center"># The Story of an Engineer Who Listened to His Systems</p>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Tata_Consultancy_Services_Logo.svg" height="50"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="50"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/University_of_Cincinnati_logo.svg" height="50"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/KLA_logo.svg" height="50"/>
-</p>
 
 ---
 
