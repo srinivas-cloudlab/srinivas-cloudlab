@@ -1,4 +1,4 @@
-<p align="center">## 🌩️ Systems, Stories, and Everything in Between</p>
+<h1 align="center">🌩️ Systems, Stories, and Everything in Between</h1>
 
 <h3 align="center"><em>Not Just What I Built, But What Built Me</em></h3>
 
