@@ -26,7 +26,7 @@
 
 - Tata Consultancy Services — Systems Engineer (Cloud Admin & DevSecOps)  
 - Cisco Systems — Technical Consulting Engineer (Site Reliability Engineer)  
-- University of Cincinnati — Digital Technology Solutions  
+- University of Cincinnati — Digital Technology Solutions - DevOps, AIOps and HPC
 - KLA Corporation — Software Engineer, DevOps Intern  
 
 ---
