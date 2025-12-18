@@ -1,4 +1,4 @@
-# 🌩️ Systems, Stories, and Everything in Between
+<p align="center"># 🌩️ Systems, Stories, and Everything in Between</p>
 
 <h3 align="center"><em>Not Just What I Built, But What Built Me</em></h3>
 
@@ -10,8 +10,7 @@
 
 - **Name** — Srinivas Nagaraja  
 - **Education** — MS in Information Technology, University of Cincinnati  
-- **Current Company** — Software Engineer, DevOps Intern — KLA  
-- **Experience** — 4+ YOE  
+- **Experience** — 5 YOE  
 
 ---
 
@@ -120,12 +119,6 @@ I want systems that **understand themselves**.
 <p align="center"><em>It’s not confidential, but I’m confident.</em></p>
 
 ---
-
-### 🔗 Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/srinivas-n-76077b170
-
----
-
 
 ## 🛠️ Core Technologies & Tools
 
