@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Srinivas</h1>
-<h3 align="center">Cloud Engineer | DevOps & Release Engineering | Infrastructure Automation | Platform Engineer | SRE | HPC </h3>
+<h3 align="center">Cloud Engineer | DevOps & Release Engineering | Platform Engineer | SRE | HPC </h3>
 
 <p align="center">
   <em>
@@ -108,7 +108,6 @@ systems that can **observe, predict, and self-heal**.
 I’m driven to explore the future of:
 - intelligent cloud platforms  
 - resilient distributed systems  
-- data-driven operations  
 
 ---
 
