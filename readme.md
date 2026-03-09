@@ -24,10 +24,11 @@
 
 ## 🛣️ The Road So Far — From First Login to Last Commit
 
-- Tata Consultancy Services — Systems Engineer (Cloud Admin & DevSecOps)  
-- Cisco Systems — Technical Consulting Engineer (Site Reliability Engineer)  
+- Stellantis — Systems Engineer (Cloud Admin & DevSecOps)  
+- Cisco Systems — Cloud and DevOps Engineer
 - University of Cincinnati — Digital Technology Solutions - DevOps, AIOps and HPC
-- KLA Corporation — Software Engineer, DevOps Intern  
+- KLA Corporation — Software Engineer, DevOps
+- Koios Market Place - DevOps Engineer
 
 ---
 
