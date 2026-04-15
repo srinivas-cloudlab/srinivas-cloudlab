@@ -10,7 +10,6 @@
 
 - **Name** — Srinivas Nagaraja  
 - **Education** — MS in Information Technology, University of Cincinnati  
-- **Experience** — 5 YOE  
 
 ---
 
